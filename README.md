@@ -1,11 +1,11 @@
-# Uniswap V2
+# Mateswap V2
 
-[![Actions Status](https://github.com/Uniswap/uniswap-v2-core/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-v2-core/actions)
-[![Version](https://img.shields.io/npm/v/@uniswap/v2-core)](https://www.npmjs.com/package/@uniswap/v2-core)
+[![Actions Status](https://github.com/Mateswap/mateswap-v2-core/workflows/CI/badge.svg)](https://github.com/Mateswap/mateswap-v2-core/actions)
+[![Version](https://img.shields.io/npm/v/@mateswap/v2-core)](https://www.npmjs.com/package/@mateswap/v2-core)
 
-In-depth documentation on Uniswap V2 is available at [uniswap.org](https://uniswap.org/docs).
+In-depth documentation on Mateswap V2 is available at [mateswap.org](https://mateswap.org/docs).
 
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@uniswap/v2-core@latest/).
+The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@mateswap/v2-core@latest/).
 
 # Local Development
 
